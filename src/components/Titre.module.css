@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.font_family {
+    font-family: 'Dancing Script', cursive;
+    color: aqua;
+
+}
